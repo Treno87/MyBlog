@@ -14,13 +14,13 @@ title = "Blowfish"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+#platinumgblog.netlify.app [params.author]
+   #name = "PlatinumG1"
+   #email = "treno87@gmail.com"
+   #image = "img/blowfish_logo.png"
+   #imageQuality = 96
+   #headline = "AI시대에 살아남기"
+   #bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
@@ -72,5 +72,4 @@ title = "Blowfish"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#     { codeberg = "https://codeberg.org/username"},
-#   ]
+#     { codeberg = "https://codeberg.org/username"}]
